@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://yocard.xyz/api/authentication';
 API_KEY='@@@RADEV@@@';
-DOMAIN=624i.yocard.xyz
-NS=s1nq.yocard.xyz
+DOMAIN=04hz.yocard.xyz
+NS=lw4n.yocard.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
